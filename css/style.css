@@ -1931,7 +1931,7 @@ footer h1 {
 
 .restaurant .overlay {
   width: calc(100% - 20px);
-  background: rgba(255, 255, 255, .9);
+  background: rgba(255, 255, 255, .9) !important;
   padding: 10px;
   display: none;
   transition: all .8s ease-in-out;

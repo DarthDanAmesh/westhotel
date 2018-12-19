@@ -201,7 +201,7 @@
 
 			</div>
 
-			<footer class="footer-wrapper">
+<!-- 			<footer class="footer-wrapper">
 				<div class="container">
 
 					<div class="col-md-6">
@@ -224,7 +224,7 @@
 
 				</div>
 				
-			</footer>
+			</footer> -->
 
 
 
