@@ -1,0 +1,58 @@
+@media only screen and(min-width: 1280px) {
+	.sidebar .menuList {
+		left: 40%
+	}
+}
+
+@media only screen and (max-width: 1280px) {
+	#language {
+		left: 12%
+	}
+	/* ROOMS */
+	.__boxRes .ui-datepicker-calendar thead tr th span {
+		width: 96px;
+	}
+	.adult__list ul, .child__list ul {
+		width: 150px;
+	}
+	.overlay .btn__more {
+		left: 40px;
+	}
+	.room_desc p {
+		font-size: .9em
+	}
+	.flags {
+		bottom: 25%
+	}
+	.gMap {
+		width: 427px;
+	}
+}
+
+@media(min-width:360px) and (max-width:410px) {
+	.btn_mobile {
+		left: 18%
+	}
+}
+
+@media(min-width: 375px) {
+	.btn_mobile {
+		left: 20%;
+	}
+}
+
+@media(min-width:411px) {
+	.btn_mobile {
+		left: 26%
+	}
+}
+
+.restaurant .desc p {
+	font-size: 11px;
+}
+
+.restaurant .desc a {
+	width: 70%;
+	font-size: 12px;
+	margin: auto;
+}
