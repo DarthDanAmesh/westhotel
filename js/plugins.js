@@ -74,6 +74,9 @@ $(function(){
 			var valAdult = $(this).text();
 			// console.log(valAdult);
 			$('.adult_val').html(valAdult);
+			$('.adult__val').slideUp();
+
+
 		});
 
 	});
@@ -90,6 +93,8 @@ $(function(){
 			var valChild = $(this).text();
 			// console.log(valAdult);
 			$('.child_val').html(valChild);
+			$('.child__val').slideUp();
+
 		});
 
 	});

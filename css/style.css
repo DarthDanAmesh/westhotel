@@ -1592,6 +1592,7 @@ a, a:hover {
   height: 1.25em;
   text-indent: 9999px;
   border: 2px solid #FFF;
+  border: 0;
   border-radius: 100%;
   cursor: pointer;
   overflow: hidden;
@@ -2205,11 +2206,31 @@ footer h1 {
   width: 40%;
 }
 
+
+.offer:hover .special_desc a {
+  animation: pop .3s linear 1 ;
+}
+
+@keyframes pop {
+  50% {
+    transform: scale(1.2);
+  }
+}
+
+.pop {
+  display: inline-block;
+  vertical-align: middle;
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+}
+
 .offer span {
   display: block;
   position: absolute;
   transition: all .3s ease-in-out
 }
+
+
 
 .offer span:nth-of-type(1) {
   top: -2px;

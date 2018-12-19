@@ -17,7 +17,7 @@
 					<h2 class="special_title">Spa</h2>
 					<div class="special_desc overlay">
 						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium facere, consequuntur modi itaque commodi nisi numquam molestias. Aut, odio saepe, qui nostrum at assumenda illo error voluptatibus, laborum minima labore.</p>
-						<a href="special_1.php">Read more</a>
+						<a class="pop" href="special_1.php">Read more</a>
 
 					</div>
 
@@ -49,7 +49,7 @@
 					<h2 class="special_title">Golf</h2>
 					<div class="special_desc overlay">
 						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium facere, consequuntur modi itaque commodi nisi numquam molestias. Aut, odio saepe, qui nostrum at assumenda illo error voluptatibus, laborum minima labore.</p>
-					<a class="hvr-pop" href="special_1.php">Read more</a>
+					<a href="special_1.php">Read more</a>
 
 					</div>
 
