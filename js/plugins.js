@@ -201,6 +201,14 @@ $(function(){
 		$('.ico1').css('color', '#fff');
 	});
 
+	$('.ico1').on('click', function(){
+		$(this).css('color','white');
+	});
+
+	$('.ico4').on('click', function () {
+		$(this).css('color', 'white');
+	});
+
 
 
 	$('.restaurant').mouseenter(function(){
