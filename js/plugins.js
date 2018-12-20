@@ -139,6 +139,14 @@ $(function(){
 
 	});
 
+	$('.restaurant .ico2').on('click', function(){
+		$('.resMenu2').toggle(300);
+	});
+
+	$('.restaurant .ico3').on('click', function () {
+		$('.resMenu3').toggle(300);
+	})
+
 
 	$('.restaurant .ico4').on('click', function(){
 		$('.resMenu4').toggle(300);
@@ -201,8 +209,8 @@ $(function(){
 		$('.ico1').css('color', '#fff');
 	});
 
-	$('.ico1').on('click', function(){
-		$(this).css('color','white');
+	$('.ico1, .ico2, .ico3, .ico4').on('click', function(){
+		$(this).css('color','#fff');
 	});
 
 	$('.ico4').on('click', function () {

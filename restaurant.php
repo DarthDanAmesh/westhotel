@@ -65,12 +65,11 @@
 								</div>	
 
 								<div class="resMenu resMenu2">
-									<ul>
-										<li><a href="#">Legumes</a></li>
-										<li><a href="#">Edible plants</a></li>
-										<li><a href="#">Edible fungi</a></li>
-										<li><a href="#">Breads</a></li>
-									</ul>
+									<h2>Coffee</h2>
+									<span>Coca-Cola     .... 		<b>10,25$</b></span>
+									<span>Sprite        .... 		<b>8,75$</b></span>
+									<span>Mineral water .... 		<b>5,99$</b></span>
+									<span>Black Tea     .... 		<b>12,25$</b></span>
 
 								</div>
 							
@@ -95,12 +94,11 @@
 								</div>
 
 								<div class="resMenu resMenu3">
-									<ul>
-										<li><a href="#">Legumes</a></li>
-										<li><a href="#">Edible plants</a></li>
-										<li><a href="#">Edible fungi</a></li>
-										<li><a href="#">Breads</a></li>
-									</ul>
+									<h2>Birthday</h2>
+									<span>Coca-Cola     .... 		<b>10,25$</b></span>
+									<span>Sprite        .... 		<b>8,75$</b></span>
+									<span>Mineral water .... 		<b>5,99$</b></span>
+									<span>Black Tea     .... 		<b>12,25$</b></span>
 
 								</div>
 							
