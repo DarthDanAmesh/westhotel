@@ -209,7 +209,7 @@ $('.restaurant').mouseleave(function(){
 });
 
 
-
+	AOS.init();
 
 
 
