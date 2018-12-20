@@ -1987,7 +1987,7 @@ footer h1 {
   bottom: 0;
   top: 0;
   left: 0;
-  cursor: pointer;
+  /* cursor: pointer; */
   text-align: left;
   font-family: 'Raleway', sans-serif;
   display: none;
@@ -1997,7 +1997,15 @@ footer h1 {
   margin-left: 50px;
   font-family: 'Raleway', sans-serif;
   text-transform: uppercase;
-  margin-bottom: 0;
+  /* margin-bottom: 0; */
+  margin: 10px
+}
+
+.resMenu span {
+  display: block;
+  margin: 10px 10px 15px;
+  text-transform: uppercase;
+  line-height: 1.8
 }
 
 .resMenu ul {

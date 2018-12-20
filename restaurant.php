@@ -26,13 +26,19 @@
 								</div>
 								
 								<div class="resMenu resMenu1">
-									<ul>
+									<!-- <ul>
 										<h2>Drinks</h2>
 										<li><a href="#">Coca-Cola .... 10,25$</a></li>
 										<li><a href="#">Sprite .... 8,75$</a></li>
 										<li><a href="#">Mineral water .... 5,99$</a></li>
 										<li><a href="#">Black Tea .... 12,25$</a></li>
-									</ul>
+									</ul> -->
+
+									<h2>Drinks</h2>
+									<span>Coca-Cola     .... 		<b>10,25$</b></span>
+									<span>Sprite        .... 		<b>8,75$</b></span>
+									<span>Mineral water .... 		<b>5,99$</b></span>
+									<span>Black Tea     .... 		<b>12,25$</b></span>
 									<img src="img/restaurant/image.png" class="menuLogo" alt="">
 
 								</div>
@@ -118,13 +124,20 @@
 								</div>
 
 								<div class="resMenu resMenu4">
-									<ul>
+									<!-- <ul>
 										<h2>Burgers</h2>
 										<li><a href="#">Beef Meat    .....  5,25$ </a></li>
 										<li><a href="#">Chicken Meat .....  6,76$ </a></li>
 										<li><a href="#">CheeseBurger .....  5,35$ </a></li>
 										<li><a href="#">Vegan        .....  4,99$ </a></li>
-									</ul>
+									</ul> -->
+
+
+									<h2>Burgers</h2>
+									<span>Beef Meat     .... 		<b>5,25$</b></span>
+									<span>Chicken Meat        .... 		<b>6,76$</b></span>
+									<span>CheeseBurger .... 		<b>5,35$</b></span>
+									<span>Vegan     .... 		<b>4,99$</b></span>
 
 									<img src="img/restaurant/humberger.png" class="menuLogo" alt="">
 
