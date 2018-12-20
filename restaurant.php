@@ -13,7 +13,7 @@
 
 					<div class="col-md-12">
 						<div class="col-md-6">
-							<div class="restaurant" style="background: url(img/restaurant_1/david-straight-341873-unsplash.jpg) no-repeat;background-size: cover;background-position: center;">
+							<div class="restaurant" data-aos="fade-down"  style="background: url(img/restaurant_1/david-straight-341873-unsplash.jpg) no-repeat;background-size: cover;background-position: center;">
 								<div class="overlay animated fadeInUp">
 									<div class="desc">
 										<h2 class="text-center">Bar & Coffee</h2>
@@ -52,7 +52,7 @@
 						</div>
 
 						<div class="col-md-6">
-							<div class="restaurant" style="background: url(img/restaurant_1/pablo-merchan-montes-772142-unsplash.jpg) no-repeat;background-size: cover">
+							<div class="restaurant" data-aos="fade-left" style="background: url(img/restaurant_1/pablo-merchan-montes-772142-unsplash.jpg) no-repeat;background-size: cover">
 								<div class="overlay animated fadeInUp">
 									<div class="desc">
 										<h2 class="text-center">Restaurant</h2>
@@ -82,7 +82,7 @@
 
 					<div class="col-md-12">
 						<div class="col-md-6">
-							<div class="restaurant" style="background: url(img/restaurant_1/5bf7e27dd7fce.png) no-repeat;background-size: cover;background-position: center;">
+							<div class="restaurant" data-aos="fade-right" style="background: url(img/restaurant_1/5bf7e27dd7fce.png) no-repeat;background-size: cover;background-position: center;">
 								<div class="overlay animated fadeInUp">
 									<div class="desc">
 										<h2 class="text-center">Meals</h2>
@@ -111,7 +111,7 @@
 						</div>
 
 						<div class="col-md-6">
-							<div class="restaurant res" style="background: url(img/restaurant_1/691383403.png) no-repeat; background-size: cover;">
+							<div class="restaurant res" data-aos="fade-up" style="background: url(img/restaurant_1/691383403.png) no-repeat; background-size: cover;">
 								<div class="overlay animated fadeInUp">
 									<div class="desc">
 										<h2 class="text-center">Cooking</h2>
