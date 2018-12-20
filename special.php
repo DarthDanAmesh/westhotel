@@ -15,10 +15,11 @@
 			<div class="col-md-4">
 				<div class="offer animated bounceInLeft " style="background-image: url(img/special/1439711.jpeg);">
 					<h2 class="special_title">Spa</h2>
-					<div class="special_desc overlay">
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium facere, consequuntur modi itaque commodi nisi numquam molestias. Aut, odio saepe, qui nostrum at assumenda illo error voluptatibus, laborum minima labore.</p>
-						<a class="pop" href="special_1.php">Read more</a>
-
+					<div class="overlay">
+						<div class="special_desc">
+							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium facere, consequuntur modi itaque commodi nisi numquam molestias. Aut, odio saepe, qui nostrum at assumenda illo error voluptatibus, laborum minima labore.</p>
+							<a class="pop" href="special_1.php">Read more</a>
+						</div>
 					</div>
 
 					<span></span>

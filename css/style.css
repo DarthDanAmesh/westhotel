@@ -1039,6 +1039,7 @@ a, a:hover {
   position: fixed;
   bottom: 0;
   right: 0;
+  border-top: 1px solid #dfdfdf
 }
 
 /* Social Media */
@@ -1322,14 +1323,14 @@ a, a:hover {
   height: 467px;
   position: relative;
   margin-bottom: 50px;
-  transition: all .5s
+  transition: all .5s ease-in-out
 }
 
 .room:hover {
   background-position: 20%;
 }
 
-.overlay {
+.room .overlay {
   position: absolute;
   top: 0;
   left: 0;
@@ -1339,7 +1340,7 @@ a, a:hover {
   transition: background .5s
 }
 
-.overlay:hover {
+.room .overlay:hover {
   background: none
 }
 
@@ -1360,7 +1361,8 @@ a, a:hover {
 
 .room_desc p {
   margin-bottom: 0;
-  font-family: 'Raleway', sans-serif
+  font-family: 'Raleway', sans-serif;
+  margin-right: 20px
 }
 
 .overlay .btnOfBooking, .overlay .btn__more {
@@ -1930,16 +1932,16 @@ footer h1 {
 } */
 
 .restaurant .overlay {
-  width: calc(100% - 20px);
-  background: rgba(255, 255, 255, .9) !important;
-  padding: 10px;
-  display: none;
-  transition: all .8s ease-in-out;
-  height: calc(100% - 20px);
-  top: 10px;
-  left: 10px;
-  right: 10px;
-  bottom: 10px;
+    width: calc(100% - 80px);
+    background: rgba(255, 255, 255, .9) !important;
+    padding: 10px;
+    display: none;
+    transition: all .8s ease-in-out;
+    height: calc(100% - 80px);
+    top: 40px;
+    left: 40px;
+    right: 40px;
+    bottom: 40px;
 }
 
 .restaurant:hover .overlay {
@@ -2146,6 +2148,7 @@ footer h1 {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+  margin-bottom: 10%
 }
 
 /*.offer img {
@@ -2155,7 +2158,7 @@ footer h1 {
 .offer .special_desc {
   padding-left: 10px;
   padding-bottom: 20px;
-  padding-top: 40%;
+  padding-top: 30%;
   text-align: justify;
 }
 
@@ -2181,6 +2184,7 @@ footer h1 {
 .offer:hover .special_title {
   color: #fff;
   top: 90px;
+  left: 20px
 }
 
 .offer .special_desc h2 {
@@ -2191,13 +2195,15 @@ footer h1 {
 }
 
 .offer .special_desc p {
-  font-family: 'Raleway', sans-serif;
-  font-size: .8em;
-  line-height: 1.5;
-  color: #fff;
-  width: 90%;
-  opacity: 0;
-  transition: opacity 2s
+    font-family: 'Raleway',
+    sans-serif;
+    font-size: .8em;
+    line-height: 1.5;
+    color: #fff;
+    width: 95%;
+    opacity: 0;
+    transition: opacity 2s;
+    padding: 5%;
 }
 
 .offer:hover .special_desc p {
@@ -2212,6 +2218,7 @@ footer h1 {
   text-transform: uppercase;
   display: block;
   width: 40%;
+  margin: 0 5%
 }
 
 

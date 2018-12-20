@@ -367,6 +367,7 @@
   font-size: 14px;
   height: 490px;
   overflow: auto;
+  padding: 10px 20px
 }
 
 .x {
@@ -440,6 +441,10 @@ div.__full {
   .item-offer {
     padding-bottom: 0;
     /*position: relative;*/
+  }
+
+  .item-offer img {
+    margin-right: 5px
   }
   /* .item-offer:after {
     content: '';
