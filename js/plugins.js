@@ -202,20 +202,20 @@ $(function(){
 	// if($('body').width() < 320) {$('.__boxRes').removeClass('fixed');}
 
 	$('.restaurant').mouseenter(function(){
-		$('.ico1').css('color', '#ff9d01');
+		$('.ico1, .ico2, .ico3, .ico4').css('color', '#ff9d01');
 	});
 
 	$('.restaurant').mouseleave(function(){
-		$('.ico1').css('color', '#fff');
+		$('.ico1, .ico2, .ico3, .ico4').css('color', '#fff');
 	});
 
 	$('.ico1, .ico2, .ico3, .ico4').on('click', function(){
 		$(this).css('color','#fff');
 	});
 
-	$('.ico4').on('click', function () {
-		$(this).css('color', 'white');
-	});
+	// $('.ico4').on('click', function () {
+	// 	$(this).css('color', 'white');
+	// });
 
 
 
