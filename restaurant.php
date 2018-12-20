@@ -71,6 +71,7 @@
 									<span>Mineral water .... 		<b>5,99$</b></span>
 									<span>Black Tea     .... 		<b>12,25$</b></span>
 
+									<img src="img/restaurant/coffee.png" class="menuLogo" alt="">
 								</div>
 							
 									<i class="fa fa-coffee fa-lg ico2"></i>
