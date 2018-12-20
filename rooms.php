@@ -92,7 +92,7 @@
 
 						<div class="col-md-8 col-sm-12 col-xs-12">
 							<div class="pad__lr col-md-6 col-sm-12 col-xs-12">
-									<div class="room wow bounceInUp" style="background-image: url(img/view__more/pexels-photo-210604.jpeg);background-size: cover;">
+									<div class="room" data-aos="fade-down" style="background-image: url(img/view__more/pexels-photo-210604.jpeg);background-size: cover;">
 										<div class="overlay">
 											<div class="room_desc">
 												<h2>Double</h2>
@@ -113,7 +113,7 @@
 							</div>
 
 							<div class="pad__lr col-md-6 col-sm-12 col-xs-12">
-								<div class="room wow bounceInUp" style="background-image: url(img/view__more/pexels-photo-26139.jpg);background-size: cover;">
+								<div class="room" data-aos="fade-left" style="background-image: url(img/view__more/pexels-photo-26139.jpg);background-size: cover;">
 									<div class="overlay">
 										<div class="room_desc">
 											<h2>Superior</h2>
@@ -136,7 +136,7 @@
 
 
 							<div class="pad__lr col-lg-6 col-md-6 col-sm-12 col-xs-12">
-								<div class="room wow bounceInUp" style="background-image: url(img/view__more/pexels-photo-276671.jpeg);background-size: cover;">
+								<div class="room" data-aos="fade-right" style="background-image: url(img/view__more/pexels-photo-276671.jpeg);background-size: cover;">
 									<div class="overlay">
 										<div class="room_desc">
 											<h2>2 room suite</h2>
@@ -157,7 +157,7 @@
 							</div>
 
 							<div class="pad__lr col-md-6 col-sm-12 col-xs-12">
-								<div class="room wow bounceInUp" style="background-image: url(img/view__more/pexels-photo-164595.jpeg);background-size: cover;">
+								<div class="room" data-aos="fade-up" style="background-image: url(img/view__more/pexels-photo-164595.jpeg);background-size: cover;">
 									<div class="overlay">
 										<div class="room_desc">
 											<h2>President suite</h2>
