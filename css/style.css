@@ -2008,7 +2008,7 @@ footer h1 {
   line-height: 1.8
 }
 
-.resMenu ul {
+/* .resMenu ul {
   list-style: none;
   padding: 0;
   font-family: sans-serif;
@@ -2028,7 +2028,7 @@ footer h1 {
   padding: 10px 20px;
   transition: .5s;
   text-transform: uppercase;
-}
+} */
 
 .menuLogo {
   position: absolute;
