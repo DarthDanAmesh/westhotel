@@ -74,7 +74,7 @@
 
 								</div>
 							
-									<!-- <i class="fa fa-expand fa-lg ico2"></i> -->
+									<i class="fa fa-coffee fa-lg ico2"></i>
 
 							</div>
 						</div>
@@ -105,7 +105,7 @@
 								</div>
 							
 									<!-- <i class="fa fa-arrow-circle-o-up fa-lg ico3"></i> -->
-									<!-- <i class="fa fa-expand fa-lg ico3"></i> -->
+									<i class="fa fa-birthday-cake fa-lg ico3"></i>
 
 							</div>
 						</div>
