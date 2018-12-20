@@ -136,12 +136,14 @@ $(function(){
 
 	$('.restaurant .ico1').on('click', function(){
 		$('.resMenu1').toggle(300);
+
 	});
 
 
 	$('.restaurant .ico4').on('click', function(){
 		$('.resMenu4').toggle(300);
 	});	
+
 
 
 	$("body").niceScroll({
@@ -173,46 +175,53 @@ $(function(){
 
 
 
-$(window).scroll(function() {
-	var scrollTop = $(window).scrollTop();
+	$(window).scroll(function() {
+		var scrollTop = $(window).scrollTop();
 
-	if(scrollTop > 222) {
-		$('.__boxRes').addClass('fixed');
-		$('.__boxRes').css('width', '28%');
-	} else {
-		$('.__boxRes').removeClass('fixed');
-		$('.__boxRes').css('width', '100%');
+		if(scrollTop > 222) {
+			$('.__boxRes').addClass('fixed');
+			$('.__boxRes').css('width', '28%');
+		} else {
+			$('.__boxRes').removeClass('fixed');
+			$('.__boxRes').css('width', '100%');
 
-	}
+		}
 
-});
-
-
-
-// if($('body').width() < 320) {$('.__boxRes').removeClass('fixed');}
-
-$('.restaurant').mouseenter(function(){
-	$('.ico1').css('color', '#ff9d01');
-});
-
-$('.restaurant').mouseleave(function(){
-	$('.ico1').css('color', '#fff');
-});
+	});
 
 
-$('.restaurant').mouseenter(function(){
-	$('.ico4').css('color', '#ff9d01');
-});
 
-$('.restaurant').mouseleave(function(){
-	$('.ico4').css('color', '#fff');
-});
+	// if($('body').width() < 320) {$('.__boxRes').removeClass('fixed');}
+
+	$('.restaurant').mouseenter(function(){
+		$('.ico1').css('color', '#ff9d01');
+	});
+
+	$('.restaurant').mouseleave(function(){
+		$('.ico1').css('color', '#fff');
+	});
+
+
+
+	$('.restaurant').mouseenter(function(){
+		$('.ico4').css('color', '#ff9d01');
+	});
+
+	$('.restaurant').mouseleave(function(){
+		$('.ico4').css('color', '#fff');
+	});
 
 
 	AOS.init({
-		duration: 1800, // values from 0 to 3000, with step 50ms
-		easing: 'ease' // default easing for AOS animations
+		duration: 1800,
+		easing: 'ease' 
 	});
+
+
+
+
+
+
 
 
 
