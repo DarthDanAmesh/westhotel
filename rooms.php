@@ -159,7 +159,7 @@
 							</div>
 
 							<div class="pad__lr col-md-6 col-sm-12 col-xs-12">
-								<div class="room wow fadeInUp" style="background-image: url(img/view__more/pexels-photo-164595.jpeg);background-size: cover;">
+								<div class="room wow slideInUp" style="background-image: url(img/view__more/pexels-photo-164595.jpeg);background-size: cover;">
 									<div class="overlay">
 										<div class="room_desc">
 											<h2>President suite</h2>

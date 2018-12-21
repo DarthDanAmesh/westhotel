@@ -6,11 +6,11 @@
 	<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
 	<link rel="icon" href="img/favicon.ico" type="image/x-icon">
  	<link rel="stylesheet" href="css/dist/magnific-popup.css">
+	<link rel="stylesheet" href="css/dist/aos.css">
  	<link rel="stylesheet" href="css/dist/icofont.min.css">
 	<link rel="stylesheet" href="css/style.css">
 	<link rel="stylesheet" href="css/main.css">
 	<link rel="stylesheet" href="css/ourRoom.css">
-	<link rel="stylesheet" href="https://cdn.rawgit.com/michalsnik/aos/2.1.1/dist/aos.css">
 
 	<title>OST-WEST HOTEL</title>
 </head>
